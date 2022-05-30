@@ -1,0 +1,4 @@
+Link for Dataset Rice and Corn Leaf Diseases
+File Datasets in Kaggle
+
+https://www.kaggle.com/datasets/najibullohasror/hitani-dataset
